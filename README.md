@@ -1,4 +1,4 @@
 # REDUCING THE AMORTIZATION GAP IN END-TO-END IMAGE COMPRESSION
 REDUCING THE AMORTIZATION GAP IN END-TO-END IMAGE COMPRESSION, ICIP2022 submission
 
-Please check the pdf file to read the paper.
+Please check the pdf file to reach the paper.
